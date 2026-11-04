@@ -32,7 +32,7 @@ export const navLinks: NavLink[] = [
 export const socialLinks: SocialLink[] = [
   {
     name: "GitHub",
-    url: "https://github.com/arumugam-dev", // [Replace with your actual GitHub URL]
+    url: "https://github.com/Aru-02", // [Replace with your actual GitHub URL]
     icon: "github",
     label: "Explore GitHub Profile",
   },
@@ -125,7 +125,7 @@ export const projects: ProjectItem[] = [
       "Shopify direct integration for automated order syncing",
       "Interactive analytics dashboard for delivery SLA insights",
     ],
-    githubUrl: "https://github.com/arumugam-dev/shipping-ai-platform", // [Replace with your repository link]
+    githubUrl: "https://github.com/Aru-02/shipping-ai-platform", // [Replace with your repository link]
     liveUrl: "https://shipping-ai-platform.vercel.app", // [Replace with your live demo URL]
     featured: true,
     category: "Full Stack",
@@ -148,7 +148,7 @@ export const projects: ProjectItem[] = [
       "Modular REST API architecture designed for high availability and low latency",
       "Detailed audit logging for order state transitions and shipping events",
     ],
-    githubUrl: "https://github.com/arumugam-dev/ecommerce-shipping-management", // [Replace with your repository link]
+    githubUrl: "https://github.com/Aru-02/ecommerce-shipping-management", // [Replace with your repository link]
     liveUrl: "https://shipping-mgmt-demo.vercel.app", // [Replace with your live demo URL]
     featured: true,
     category: "Backend",
